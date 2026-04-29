@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ruben Samuel 👋</h1>
 
 <p align="center">
-Biomedical Engineering Student | Embedded Systems | Smart Healthcare Systems
+`3D Design` | `ESP32 & Arduino` | `Real-Time Healthcare Systems`
 </p>
 
 ---
@@ -70,8 +70,11 @@ Wearable cervical posture monitoring system with real-time feedback.
 
 ## Connect
 
-- 📧 Email: ruben07sam@gmail.com  
-- 🔗 LinkedIn: www.linkedin.com/in/rubensamuels
+[![Email](https://img.shields.io/badge/Email-ruben07sam%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ruben07sam@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben%20Samuel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubensamuels)
+
+[![Phone](https://img.shields.io/badge/Phone-%2B91%20XXXXX%20XXXXX-green?style=for-the-badge&logo=phone)](+91 9150773288)
 
 ---
 
