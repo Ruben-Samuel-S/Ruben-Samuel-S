@@ -17,7 +17,7 @@ Biomedical Engineering Student | Embedded Systems | Smart Healthcare Systems
 
 ## Projects
 
-### 🦿 StrideSense
+### StrideSense
 Smart prosthetic foot system with real-time gait analysis.
 
 - FSR + IMU based sensing  
@@ -29,7 +29,7 @@ Smart prosthetic foot system with real-time gait analysis.
 
 ---
 
-### 🧠 CerviSense
+### CerviSense
 Wearable cervical posture monitoring system with real-time feedback.
 
 - IMU-based neck posture tracking  
@@ -41,20 +41,19 @@ Wearable cervical posture monitoring system with real-time feedback.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Embedded Systems**
-- ESP32, Arduino, PlatformIO  
-- Sensor Integration (FSR, MPU6050)  
+### Embedded & Biomedical
+`ESP32 Programming` | `Sensor Interfacing` | `3D Printing Technology`
 
-**Software**
-- React, TypeScript  
-- Tailwind CSS  
-- Supabase  
+### Engineering & Analysis
+`ANSYS (FEA)` | `MATLAB` | `SolidEdge` | `SPSS`
 
-**Engineering Tools**
-- ANSYS (FEA simulation)  
-- Git & GitHub  
+### AI & Data
+`Python` | `Machine Learning (Basics)` | `Supabase (Cloud Backend)`
+
+### Programming
+`C (Basics)` 
 
 ---
 
