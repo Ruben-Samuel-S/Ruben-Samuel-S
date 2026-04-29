@@ -11,7 +11,7 @@
 
 - 🎓 Biomedical Engineering @ Chennai Institute of Technology  
 - 🔬 Focused on **smart healthcare devices & real-time monitoring systems**  
-- ⚙️ Working with **ESP32, sensors, embedded systems, and full-stack dashboards**  
+- ⚙️ Working with **ESP32, sensors, embedded systems, and 3D Designs**  
 - 🧠 Exploring **AI integration in biomedical applications**  
 
 ---
