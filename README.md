@@ -69,7 +69,7 @@ Wearable cervical posture monitoring system with real-time feedback.
 ## Connect
 
 - 📧 Email: ruben07sam@gmail.com  
-- 🔗 LinkedIn: your-linkedin-link  
+- 🔗 LinkedIn: www.linkedin.com/in/rubensamuels
 
 ---
 
