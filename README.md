@@ -70,11 +70,11 @@ Wearable cervical posture monitoring system with real-time feedback.
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-ruben07sam%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ruben07sam@gmail.com)
+[![Email](https://img.shields.io/badge/email-ruben07sam%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben07sam@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben%20Samuel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubensamuels)
+[![LinkedIn](https://img.shields.io/badge/linkedin-ruben%20samuel-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubensamuels)
 
-[![Phone](https://img.shields.io/badge/Phone-%2B91%20XXXXX%20XXXXX-green?style=for-the-badge&logo=phone)](+91 9150773288)
+[![Mobile](https://img.shields.io/badge/mobile-%2B91%209150773288-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+919150773288)
 
 ---
 
