@@ -61,14 +61,6 @@ Wearable cervical posture monitoring system with real-time feedback.
 
 ---
 
-## What I'm Currently Working On
-
-- Integrating **AI into biomedical systems**  
-- Improving **real-time health monitoring dashboards**  
-- Building **scalable smart healthcare prototypes**  
-
----
-
 ## Connect
 
 [![Email](https://img.shields.io/badge/email-ruben07sam%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben07sam@gmail.com)
