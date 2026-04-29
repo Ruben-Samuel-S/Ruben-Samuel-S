@@ -72,7 +72,7 @@ Wearable cervical posture monitoring system with real-time feedback.
 
 [![Email](https://img.shields.io/badge/email-ruben07sam%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruben07sam@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben%20Samuel%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubensamuels)
+[![LinkedIn](https://img.shields.io/badge/linkedin-ruben%20samuel%20s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubensamuels)
 
 [![Mobile](https://img.shields.io/badge/Mobile-%2B91%209150773288-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919150773288)
 
