@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ruben Samuel 👋</h1>
+<h1 align="center">Hi, I'm Ruben Samuel S 👋</h1>
 
 <p align="center">
 `3D Design` | `ESP32 & Arduino` | `Real-Time Healthcare Systems`
