@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Ruben Samuel S 👋</h1>
 
-
-  `3D Design` | `ESP32 & Arduino` | `Real-Time Healthcare Systems`
+<p align="center">
+3D Design | ESP32 & Arduino | Real-Time Healthcare Systems
+</p>
 
 
 ---
