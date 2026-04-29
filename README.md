@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Ruben Samuel S 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/3D%20Design-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ESP32%20%26%20Arduino-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Real--Time%20Healthcare-16a34a?style=for-the-badge"/>
+  `3D Design` | `ESP32 & Arduino` | `Real-Time Healthcare Systems`
 </p>
 
 ---
