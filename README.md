@@ -15,6 +15,25 @@ Biomedical Engineering Student | Embedded Systems | Smart Healthcare Systems
 
 ---
 
+## 🛠️ Tech Stack
+
+### Embedded & Biomedical
+`ESP32 Programming` | `Sensor Interfacing` | `3D Printing Technology`
+
+### Development Tools
+`VS Code` | `PlatformIO`
+
+### Engineering & Analysis
+`ANSYS (FEA)` | `MATLAB` | `SolidEdge` | `SPSS`
+
+### AI & Data
+`Python` | `Machine Learning (Basics)` | `Supabase (Cloud Backend)`
+
+### Programming
+`C (Basics)` 
+
+---
+
 ## Projects
 
 ### StrideSense
@@ -38,22 +57,6 @@ Wearable cervical posture monitoring system with real-time feedback.
 - Gamified user engagement (challenges, reports)
 
 👉 [View Project](https://github.com/Ruben-Samuel-S/cervisense)
-
----
-
-## 🛠️ Tech Stack
-
-### Embedded & Biomedical
-`ESP32 Programming` | `Sensor Interfacing` | `3D Printing Technology`
-
-### Engineering & Analysis
-`ANSYS (FEA)` | `MATLAB` | `SolidEdge` | `SPSS`
-
-### AI & Data
-`Python` | `Machine Learning (Basics)` | `Supabase (Cloud Backend)`
-
-### Programming
-`C (Basics)` 
 
 ---
 
